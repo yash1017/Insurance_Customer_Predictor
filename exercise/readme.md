@@ -8,9 +8,9 @@ Your client is an Insurance company that has provided health insurance to its cu
 Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
 
 ### Evaluation Metric
-The evaluation metric for this hackathon is ROC_AUC score.
+The evaluation metric for this predictor is ROC_AUC score.
 
 ### Suggested Model
-KNN classifier
+Kth Nearest Neighbors Classifier
 
 Source : https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction/tasks?taskId=2055
